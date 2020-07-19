@@ -1,0 +1,5 @@
+version: "1"
+rules:
+  - base: master
+    upstream: dvc.org:master
+    mergeMethod: hardreset
